@@ -19,6 +19,5 @@ int main(int argc, const char * argv[]) {
     }
     
     printf("int数据类型最大的数的数位是：%d\n", b);
-    
     return 0;
 }
